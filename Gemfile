@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rake'
+gem 'colored'
 
 group :development do
   gem 'pry'
